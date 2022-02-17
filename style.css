@@ -63,7 +63,7 @@ estão dentro de divs com a classe "img-wrapper" */
 }
 
 .banner p{
-    font: "Josefin Slab", serif;
+    font-family: "Josefin Slab", serif;
     color: white;
     font-size: 2rem;
     text-shadow: 0.2rem 0.2rem rgba(0,0,0,0.4);
@@ -77,7 +77,7 @@ estão dentro de divs com a classe "img-wrapper" */
     background: #7f00ff; /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #7f00ff, #e100ff); /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, #7f00ff, #e100ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-    font: "Mulish", serif;
+    font-family: "Mulish", serif;
     text-transform: uppercase;
     letter-spacing: 0.1rem;
     color: white;
